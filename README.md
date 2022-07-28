@@ -10,6 +10,3 @@ React Icons
 In the project directory, you can run:
 https://vegeterian-food.vercel.app/
 
-## About
-
-The purpose of creating this site was to explain how we can get data from API for beginners and also simply use React Context API and React Router Dome. It was also to explain how to use Tailwindcss and how to give responsive design with tailwindcss.
